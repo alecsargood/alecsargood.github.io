@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a>University College London</a>
+subtitle: <a href='https://www.ucl.ac.uk/'>University College London</a>
 
 profile:
   align: right
@@ -29,9 +29,9 @@ latest_posts:
 
 I am an Applied Mathematician and AI Researcher currently pursuing my PhD in Computer Science at University College London (UCL) within the Hawkes Institute.
 
-My research lies at the intersection of modern artificial intelligence and complex image analysis. I focus on developing and applying advanced generative frameworks, specifically Diffusion and Flow models. I primarily apply these methods to medical image-to-image synthesis problems. Recently, my work has been accepted to **CVPR 2026** and **AAAI 2026**.
+My research lies at the intersection of modern artificial intelligence and complex image analysis. I focus on developing and applying advanced generative frameworks, specifically Diffusion and Flow models. I primarily apply these methods to medical image-to-image synthesis problems.
 
 
-**Open to collaboration:** I am happy to discuss research collaborations in flow and generative models, image-to-image, tasks and world model applications.
+**Open to collaboration:** I am happy to discuss research collaborations in flow and generative models (both theoretical and applied), image and data synthesis, and world model understanding. Feel free to reach out!
 
 Prior to my PhD, I completed an MRes at the **University of Cambridge**, an MSc in Mathematical Modelling and Scientific Computing from the **University of Oxford**, and a BSc in Mathematics from the **University of Exeter**.
