@@ -2,34 +2,34 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.ucl.ac.uk/'>University College London</a> 
+subtitle: <a href='https://www.ucl.ac.uk/'>University College London</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: true # Changed to true for a cleaner, modern look
+  image:
+  image_circular: false
   more_info: >
     <p>Hawkes Institute, UCL</p>
     <p>London, UK</p>
-    <p><a href="mailto:alec.sargood.23@ucl.ac.uk">Email Me</a></p>
+    <p><a href="mailto:alecsargood28@googlemail.com">Email Me</a></p>
 
-selected_papers: true 
-social: true 
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true 
-  scrollable: true 
-  limit: 3 
+  enabled: true
+  scrollable: true
+  limit: 3
 
 latest_posts:
-  enabled: false # Disabled for now unless you plan to start a blog right away!
-  scrollable: true 
-  limit: 3 
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
 I am an Applied Mathematician and AI Researcher currently pursuing my PhD in Computer Science at University College London (UCL) within the Hawkes Institute. In 2026, I will be joining InstaDeep as a PhD Research Intern.
 
-My research lies at the intersection of modern artificial intelligence and complex image analysis. I focus on developing and applying advanced generative frameworks—specifically Diffusion Models and Flow Matching. I primarily apply these methods to complex image-to-image synthesis and reconstruction tasks, such as MRI-to-PET translation and global tractography generation. 
+My research lies at the intersection of modern artificial intelligence and complex image analysis. I focus on developing and applying advanced generative frameworks—specifically Diffusion Models and Flow Matching. I primarily apply these methods to complex image-to-image synthesis and reconstruction tasks, such as MRI-to-PET translation and global tractography generation.
 
 Recently, my work on generative global tractography (GenTract) was accepted to **CVPR 2026**, and a framework for MRI to Amyloid PET synthesis (CoCoLIT) was accepted to **AAAI 2026**.
 

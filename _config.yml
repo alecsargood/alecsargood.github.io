@@ -4,7 +4,7 @@
 
 title: Alec Sargood
 first_name: Alec
-middle_name: 
+middle_name:
 last_name: Sargood
 contact_note: >
   Feel free to reach out for collaborations or inquiries regarding my research.
@@ -15,17 +15,17 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: ai, machine-learning, generative-models, flow-models, computer-vision, ucl
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🧠 # the emoji used as the favicon 
+icon: 🧠 # the emoji used as the favicon
 
 url: https://alecsargood.github.io # the base hostname & protocol for your site
 baseurl: "" # CRITICAL: Leave this exactly as empty quotes for GitHub Pages root hosting
 last_updated: true # set to true to display last updated in the footer
-impressum_path: 
+impressum_path:
 back_to_top: true
 
 # Social Media Links
-github_username: alecsargood 
-linkedin_username: alec-sargood-28amds
+github_username: alecsargood
+linkedin_username: alec-sargood-7932b7124
 scholar_userid: 9kuYeWcAAAAJ
 # -----------------------------------------------------------------------------
 # Theme
@@ -35,7 +35,7 @@ scholar_userid: 9kuYeWcAAAAJ
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
-  enabled: true
+  enabled: false
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
@@ -60,7 +60,7 @@ navbar_fixed: true
 footer_fixed: true
 search_enabled: true
 socials_in_search: true
-posts_in_search: true
+posts_in_search: false
 bib_search: true
 
 # Dimensions
@@ -94,8 +94,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Research Notes
+blog_description: Notes on generative modeling, computer vision, and AI research.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -124,24 +124,14 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname:
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-    categories: [external-posts]
-    tags: [medium]
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
-    categories: [external-posts]
-    tags: [google]
+external_sources: []
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -158,7 +148,7 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
@@ -166,7 +156,7 @@ collections:
   projects:
     output: true
   teachings:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -203,6 +193,7 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _posts/
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -274,8 +265,8 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_tags: []
+display_categories: []
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
