@@ -3,7 +3,7 @@ layout: page
 title: news
 permalink: /news/
 description: Recent milestones, publications, and research updates.
-nav: true
+nav: false
 nav_order: 4
 ---
 
