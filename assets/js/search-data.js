@@ -30,19 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-news",
-          title: "news",
-          description: "Recent milestones, publications, and research updates.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/news/";
-          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-thrilled-to-share-that-our-paper-gentract-generative-global-tractography-has-been-accepted-at-cvpr-2026-huge-thanks-to-l-puglisi-e-thompson-m-musolesi-and-d-c-alexander",
+            },},{id: "news-thrilled-to-share-that-our-paper-gentract-generative-global-tractography-has-been-accepted-at-cvpr-2026",
           title: 'Thrilled to share that our paper GenTract: Generative Global Tractography has been accepted...',
           description: "",
           section: "News",},{id: "news-excited-to-share-that-cocolit-controlnet-conditioned-latent-image-translation-for-mri-to-amyloid-pet-synthesis-has-been-accepted-at-aaai-2026-this-is-joint-first-author-work-with-l-puglisi",
