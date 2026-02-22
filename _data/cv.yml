@@ -1,7 +1,7 @@
 cv:
   name: Alec Sargood
   label: AI Researcher | PhD Candidate at UCL
-  email: alecsargood28@googlemail.com
+  email: alec.sargood.23@ucl.ac.uk
   location: London, UK
   image: ""
   website: https://alecsargood.github.io
@@ -80,7 +80,7 @@ cv:
 
       - title: "CoCoLIT: ControlNet-Conditioned Latent Image Translation for MRI to Amyloid PET Synthesis"
         releaseDate: 2026
-        publisher: AAAI 2026 (Accepted)
+        publisher: AAAI 2026 (Accepted, joint first author)
         url: https://arxiv.org/abs/2508.01292
 
       - title: Connectomics Informed by Large Language Models

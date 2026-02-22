@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Hawkes Institute, UCL</p>
     <p>London, UK</p>
-    <p><a href="mailto:alecsargood28@googlemail.com">Email Me</a></p>
+    <p><a href="mailto:alec.sargood.23@ucl.ac.uk">Email Me</a></p>
 
 selected_papers: true
 social: true
