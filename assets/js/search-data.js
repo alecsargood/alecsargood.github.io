@@ -76,18 +76,11 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/Alec_CV.pdf", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%61%6C%65%63%73%61%72%67%6F%6F%64%32%38@%67%6F%6F%67%6C%65%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("mailto:%61%6C%65%63.%73%61%72%67%6F%6F%64.%32%33@%75%63%6C.%61%63.%75%6B", "_blank");
         },
       },{
         id: 'social-github',
