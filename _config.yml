@@ -22,6 +22,11 @@ baseurl: "" # CRITICAL: Leave this exactly as empty quotes for GitHub Pages root
 last_updated: true # set to true to display last updated in the footer
 impressum_path: 
 back_to_top: true
+
+# Social Media Links
+github_username: alecsargood 
+linkedin_username: alec-sargood-28amds
+scholar_userid: 9kuYeWcAAAAJ
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
