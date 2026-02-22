@@ -9,11 +9,11 @@ last_name: Sargood
 contact_note: >
   Feel free to reach out for collaborations or inquiries regarding my research.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Applied Mathematician and AI Researcher specializing in modern generative frameworks. PhD Candidate @ UCL & Incoming Research Intern @ InstaDeep.
+  Applied Mathematician and AI Researcher specializing in modern generative frameworks. PhD Candidate @ UCL.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: ai, machine-learning, generative-models, diffusion-models, computer-vision, ucl, instadeep
+keywords: ai, machine-learning, generative-models, flow-models, computer-vision, ucl
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧠 # the emoji used as the favicon 
 
