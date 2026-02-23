@@ -12,7 +12,7 @@ profile:
     <i class="fas fa-building fa-sm"></i> Hawkes Institute, UCL<br>
     <i class="fas fa-map-marker-alt fa-sm"></i> London, UK<br>
     <i class="fas fa-envelope fa-sm"></i> <a href="mailto:alec.sargood.23@ucl.ac.uk">Email Me</a><br>
-    <i class="fas fa-file-pdf fa-sm"></i> <a href="/assets/pdf/Alec_CV.pdf" target="_blank">Download My CV</a>
+    <i class="fas fa-file-pdf fa-sm"></i> <a href="/assets/pdf/cv.pdf" target="_blank">Download My CV</a>
     
 selected_papers: true
 social: true
