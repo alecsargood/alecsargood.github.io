@@ -12,6 +12,7 @@ profile:
     <p>Hawkes Institute, UCL</p>
     <p>London, UK</p>
     <p><a href="mailto:alec.sargood.23@ucl.ac.uk">Email Me</a></p>
+    <p><a href="/assets/pdf/alec_sargood_cv.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button" style="background-color: var(--global-theme-color); color: white;">Download CV</a></p>
 
 selected_papers: true
 social: true
