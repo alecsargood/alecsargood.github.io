@@ -30,7 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "news-excited-to-share-that-cocolit-controlnet-conditioned-latent-image-translation-for-mri-to-amyloid-pet-synthesis-has-been-accepted-at-aaai-2026-this-is-joint-first-author-work-with-l-puglisi",
+        },{id: "news-excited-to-share-that-cocolit-controlnet-conditioned-latent-image-translation-for-mri-to-amyloid-pet-synthesis-has-been-accepted-at-aaai-2026-this-is-joint-first-author-work-with-lemuel-puglisi",
           title: 'Excited to share that CoCoLIT: ControlNet-Conditioned Latent Image Translation for MRI to Amyloid...',
           description: "",
           section: "News",},{id: "news-thrilled-to-share-that-our-paper-gentract-generative-global-tractography-has-been-accepted-at-cvpr-2026",
