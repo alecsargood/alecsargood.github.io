@@ -9,11 +9,11 @@ profile:
   image: alec-profile.jpeg
   image_circular: true
   more_info: >
-    <p>Hawkes Institute, UCL</p>
-    <p>London, UK</p>
-    <p><a href="mailto:alec.sargood.23@ucl.ac.uk">Email Me</a></p>
-    <p><a href="/assets/pdf/alec_sargood_cv.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button" style="background-color: var(--global-theme-color); color: white;">Download CV</a></p>
-
+    <i class="fas fa-building fa-sm"></i> Hawkes Institute, UCL<br>
+    <i class="fas fa-map-marker-alt fa-sm"></i> London, UK<br>
+    <i class="fas fa-envelope fa-sm"></i> <a href="mailto:alec.sargood.23@ucl.ac.uk">Email Me</a><br>
+    <i class="fas fa-file-pdf fa-sm"></i> <a href="/assets/pdf/Alec_CV.pdf" target="_blank">Download My CV</a>
+    
 selected_papers: true
 social: true
 
