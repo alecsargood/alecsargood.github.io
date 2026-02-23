@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: A collection of my work and open-source contributions in generative AI, mathematical modeling, and broader research.
 nav: true
-nav_order: 2
+nav_order: 4
 display_categories: [Research, Tools]
 horizontal: false
 ---
@@ -26,7 +26,7 @@ horizontal: false
     </div>
   </div>
   {% else %}
-  <div class="grid">
+  <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
@@ -35,8 +35,11 @@ horizontal: false
   {% endfor %}
 
 {% else %}
+
 {% assign sorted_projects = site.projects | sort: "importance" %}
+
   {% if page.horizontal %}
+
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
@@ -45,7 +48,7 @@ horizontal: false
     </div>
   </div>
   {% else %}
-  <div class="grid">
+  <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
