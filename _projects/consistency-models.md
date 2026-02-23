@@ -11,7 +11,7 @@ An open-source implementation of training workflows and evaluation pipelines for
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/trigflow-sampling.gif" title="Consistency Model Sampling Visualization" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/publication_preview/trigflow-sampling.gif" title="Consistency Model Sampling Visualization" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
