@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A collection of my work and open-source contributions in generative AI, mathematical modeling, and broader research.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-cv",
           title: "CV",
           description: "Education, research experience, publications, and technical skills.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
+          },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "A collection of my work and open-source contributions in generative AI, mathematical modeling, and broader research.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
           },
         },{id: "news-excited-to-share-that-cocolit-controlnet-conditioned-latent-image-translation-for-mri-to-amyloid-pet-synthesis-has-been-accepted-at-aaai-2026-this-is-joint-first-author-work-with-lemuel-puglisi",
           title: 'Excited to share that CoCoLIT: ControlNet-Conditioned Latent Image Translation for MRI to Amyloid...',
