@@ -4,7 +4,7 @@ title: Consistency Models
 description: Open-source implementation of scalable consistency-model training.
 importance: 3
 category: Tools
-img: assets/img/trigflow-sampling.gif
+img: assets/img/publication_preview/trigflow-sampling.gif
 ---
 
 An open-source implementation of training workflows and evaluation pipelines for **Consistency Models**, supporting one-step and few-step generation.
