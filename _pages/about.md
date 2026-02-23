@@ -7,7 +7,7 @@ subtitle: <a href='https://www.ucl.ac.uk/'>University College London</a>
 profile:
   align: right
   image: alec-profile.jpeg
-  image_circular: false
+  image_circular: true
   more_info: >
     <p>Hawkes Institute, UCL</p>
     <p>London, UK</p>

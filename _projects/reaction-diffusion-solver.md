@@ -11,7 +11,7 @@ Numerical solvers designed for stiff **reaction-diffusion systems**, developed f
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/tau0bif.png" title="Turing Instability Visualization" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/publication_preview/tau0bif.png" title="Turing Instability Visualization" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
