@@ -32,5 +32,6 @@ This project implements solvers for PDE systems exhibiting stiffness. Written in
 
 ### Links
 
+- [Paper (PubMed)](https://pubmed.ncbi.nlm.nih.gov/35934760/)
+- [Paper (arXiv)](https://arxiv.org/abs/2205.05410)
 - [Code](https://github.com/alecsargood/Dissertation_Julia)
-- [Paper](10.1007/s11538-022-01052-0)
