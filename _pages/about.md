@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.ucl.ac.uk/'>University College London</a>
+subtitle: Applied Mathematician and AI Researcher specializing in modern generative frameworks. PhD Candidate @ UCL.
 
 profile:
   align: right
@@ -28,7 +28,7 @@ latest_posts:
   limit: 3
 ---
 
-I am an Applied Mathematician and AI Researcher currently pursuing my PhD in Computer Science at University College London (UCL) within the Hawkes Institute.
+I am an Applied Mathematician and AI Researcher currently pursuing my PhD in Computer Science at **University College London (UCL)** within the Hawkes Institute.
 
 My current research lies at the intersection of modern artificial intelligence and medical image analysis. I focus on developing and applying advanced generative frameworks, specifically Diffusion and Flow models to medical data generation problems, such as image synthesis tasks.
 
