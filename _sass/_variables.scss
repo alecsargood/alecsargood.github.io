@@ -50,3 +50,27 @@ $back-to-top-width: $back-to-top-diameter;
 
 // Max width default
 $max-content-width: 930px !default;
+
+/* -------------------------------------------------------------
+   PERMANENT PYTORCH ML DARK THEME
+------------------------------------------------------------- */
+:root, html[data-theme='dark'] {
+  /* Base Dark Backgrounds & Text */
+  --global-bg-color: #1c1c1d;
+  --global-code-bg-color: #2c3237;
+  --global-text-color: #c9cabc;
+  --global-text-color-light: #828282;
+  
+  /* The PyTorch Orange Accent */
+  --global-theme-color: #EE4C2C;
+  --global-hover-color: #EE4C2C;
+  --global-hover-text-color: #ffffff;
+  
+  /* Navigation, Footer, & Cards */
+  --global-footer-bg-color: #1c1c1d;
+  --global-footer-text-color: #c9cabc;
+  --global-footer-link-color: #c9cabc;
+  --global-divider-color: #424246;
+  --global-card-bg-color: #212529;
+  --global-back-to-top-bg-color: rgba(238, 76, 44, 0.4); /* PyTorch orange slightly transparent */
+}
