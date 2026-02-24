@@ -208,3 +208,9 @@ table,
 .cv table th {
   color: var(--global-text-color) !important;
 }
+
+header.post-header .desc,
+.post-description,
+.desc {
+  color: var(--global-theme-color) !important;
+}
