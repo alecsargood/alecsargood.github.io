@@ -208,10 +208,3 @@ table,
 .cv table th {
   color: var(--global-text-color) !important;
 }
-
-/* PERMANENTLY HIDE THE RSS BUTTON */
-a[href*="feed.xml"],
-a[title="RSS Feed"],
-.fa-rss {
-  display: none !important;
-}
