@@ -4,8 +4,8 @@ title: projects
 permalink: /projects/
 description: A collection of my work and open-source contributions in generative AI, mathematical modeling, and broader research.
 nav: true
+categories: [Official Implementations, Exploratory]
 nav_order: 4
-display_categories: [Research, Tools]
 horizontal: false
 ---
 

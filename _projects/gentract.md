@@ -3,8 +3,8 @@ layout: page
 title: GenTract
 description: Generative global tractography for diffusion MRI.
 importance: 1
-category: Research
 img: assets/img/publication_preview/gentract.gif
+category: Official Implementation
 ---
 
 **GenTract** is the first generative framework for global tractography.

@@ -3,8 +3,8 @@ layout: page
 title: Reaction-Diffusion Solver
 description: Numerical solvers for stiff PDE systems in MATLAB and Julia.
 importance: 4
-category: Tools
 img: assets/img/publication_preview/tau0bif.png
+category: Official Implementation
 ---
 
 Numerical solvers designed for stiff **reaction-diffusion systems**, developed for scientific computing and mathematical biology.

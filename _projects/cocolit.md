@@ -3,8 +3,8 @@ layout: page
 title: CoCoLIT Framework
 description: ControlNet-conditioned latent diffusion for MRI-to-PET synthesis.
 importance: 2
-category: Research
 img: assets/img/publication_preview/new-cocolit.gif
+category: Official Implementation
 ---
 
 **CoCoLIT** is a 3D conditional latent diffusion framework for MRI-to-Amyloid PET translation with controllable generation.
