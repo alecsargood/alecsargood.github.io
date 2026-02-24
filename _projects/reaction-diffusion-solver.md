@@ -7,7 +7,7 @@ img: assets/img/publication_preview/tau0bif.png
 category: Official Implementation
 ---
 
-Numerical solvers designed for stiff **reaction-diffusion systems**, developed for scientific computing and mathematical biology.
+**Reaction-Diffusion Solver** provides numerical tools for stiff reaction-diffusion systems in scientific computing and mathematical biology.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -20,12 +20,16 @@ Numerical solvers designed for stiff **reaction-diffusion systems**, developed f
 
 ---
 
-### Technical Highlights
-
-- **Languages:** MATLAB and **Julia** (DifferentialEquations.jl)
-- **Code:** [alecsargood/Dissertation_Julia](https://github.com/alecsargood/Dissertation_Julia)
-- **Specialization:** Numerical stability for stiff partial differential equations (PDEs) and computation of steady-state bifurcations.
-
 ### Overview
 
 This project implements solvers for PDE systems exhibiting stiffness. Written in Julia, the solver evaluates parameter spaces to identify regions of Turing instability and pattern formation, circumventing the step-size limitations of standard explicit methods.
+
+### Highlights
+
+- **Type:** Official implementation for stiff reaction-diffusion PDE analysis
+- **Focus:** Numerical stability and steady-state bifurcation analysis
+- **Stack:** MATLAB and **Julia** (DifferentialEquations.jl)
+
+### Links
+
+- [Code](https://github.com/alecsargood/Dissertation_Julia)

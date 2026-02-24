@@ -20,12 +20,17 @@ category: Official Implementation
 
 ---
 
-### Key Information
+### Overview
+
+GenTract reformulates traditional tractography as a generative task, using a probabilistic approach to white matter reconstruction. The framework synthesizes dense tractograms while maintaining computational scalability.
+
+### Highlights
 
 - **Status:** Accepted at **CVPR 2026**
-- **Core Focus:** Scalable tract generation and probabilistic streamline modeling.
-- **Resources:** [Paper (arXiv:2511.13183)](https://arxiv.org/abs/2511.13183)
+- **Contribution:** Reframes global tractography as a generative modeling problem
+- **Focus:** Scalable probabilistic streamline generation
 
-### Technical Contribution
+### Links
 
-GenTract reformulates traditional tractography as a generative task, utilizing a probabilistic approach to white matter reconstruction. The framework synthesizes dense tractograms that map the underlying geometry of the human brain while maintaining computational scalability.
+- [Paper (arXiv)](https://arxiv.org/abs/2511.13183)
+- [Code](https://github.com/alecsargood/GenTract)

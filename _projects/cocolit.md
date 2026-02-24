@@ -20,12 +20,18 @@ category: Official Implementation
 
 ---
 
-### Project Highlights
-
-- **Status:** Accepted at **AAAI 2026**
-- **Authorship:** Joint first author (equal contribution)
-- **Links:** [Paper (arXiv)](https://arxiv.org/abs/2508.01292) | [Code & Project Page](https://brain-science.github.io/CoCoLIT/)
-
----
+### Overview
 
 CoCoLIT synthesizes Amyloid PET scans from structural MRI, offering a method for dataset augmentation and translation in Alzheimer's disease research.
+
+### Highlights
+
+- **Status:** Accepted at **AAAI 2026**
+- **Contribution:** 3D ControlNet-conditioned latent diffusion for controllable MRI-to-Amyloid PET translation
+- **Authorship:** Joint first author (equal contribution)
+
+### Links
+
+- [Paper (arXiv)](https://arxiv.org/abs/2508.01292)
+- [Project Page](https://brain-science.github.io/CoCoLIT/)
+- [Code](https://github.com/brAIn-science/CoCoLIT)

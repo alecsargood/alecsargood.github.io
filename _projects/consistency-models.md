@@ -7,7 +7,7 @@ img: assets/img/publication_preview/trigflow-sampling.gif
 category: Exploratory
 ---
 
-An open-source implementation of training workflows and evaluation pipelines for **Consistency Models**, supporting one-step and few-step generation.
+**Consistency Models** is an open-source implementation of training workflows and evaluation pipelines for one-step and few-step generation.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -20,10 +20,16 @@ An open-source implementation of training workflows and evaluation pipelines for
 
 ---
 
-### Project Overview
+### Overview
 
 This repository provides configurable architectures for consistency model research, focusing on reproducibility and systematic evaluation.
 
-- **Source Code:** [edu-genai/trigflow-scm](https://github.com/edu-genai/trigflow-scm)
-- **Primary Stack:** <i class="fab fa-python"></i> Python & <i class="fas fa-fire"></i> PyTorch
-- **Key Features:** Reproducible experiment tracking and optimized training loops.
+### Highlights
+
+- **Type:** Exploratory open-source implementation
+- **Focus:** Reproducible consistency-model training and evaluation workflows
+- **Stack:** <i class="fab fa-python"></i> Python and <i class="fas fa-fire"></i> PyTorch
+
+### Links
+
+- [Code](https://github.com/edu-genai/trigflow-scm)
