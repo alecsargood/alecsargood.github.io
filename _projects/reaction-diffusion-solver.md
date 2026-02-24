@@ -33,3 +33,4 @@ This project implements solvers for PDE systems exhibiting stiffness. Written in
 ### Links
 
 - [Code](https://github.com/alecsargood/Dissertation_Julia)
+- [Paper](10.1007/s11538-022-01052-0)
