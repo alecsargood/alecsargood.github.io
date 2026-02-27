@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Applied Mathematician & AI PhD Researcher @ UCL
+subtitle: PhD AI Researcher @ UCL. Specialising in Generative Models and Computer Vision.
 
 profile:
   align: right
