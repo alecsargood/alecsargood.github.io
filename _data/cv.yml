@@ -75,7 +75,7 @@ cv:
     Publications:
       - title: "GenTract: Generative Global Tractography"
         releaseDate: 2026
-        publisher: CVPR 2026 (Accepted)
+        publisher: CVPR 2026 (Highlight)
         url: https://arxiv.org/abs/2511.13183
 
       - title: "CoCoLIT: ControlNet-Conditioned Latent Image Translation for MRI to Amyloid PET Synthesis"
@@ -100,18 +100,20 @@ cv:
 
     Projects:
       - name: GenTract
-        url: https://arxiv.org/abs/2511.13183
+        url: https://alecsargood.github.io/GenTract/
         summary: Generative framework for global tractography in diffusion MRI.
         highlights:
-          - Accepted at CVPR 2026.
+          - Accepted at CVPR 2026 (Highlight).
           - Focused on high-quality tract reconstruction at scale.
+          - "Project page: alecsargood.github.io/GenTract — Code: github.com/alecsargood/GenTract"
 
       - name: CoCoLIT Framework
-        url: https://github.com/brAIn-science/CoCoLIT
+        url: https://brain-science.github.io/CoCoLIT/
         summary: 3D conditional latent diffusion framework for MRI-to-PET synthesis.
         highlights:
           - Accepted at AAAI 2026.
           - Designed for controllable and clinically relevant image translation.
+          - "Project page: brain-science.github.io/CoCoLIT — Code: github.com/brAIn-science/CoCoLIT"
 
       - name: Consistency Models on MNIST
         url: https://github.com/edu-genai/trigflow-scm

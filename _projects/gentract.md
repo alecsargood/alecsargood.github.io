@@ -26,11 +26,12 @@ GenTract reformulates traditional tractography as a generative task, using a pro
 
 ### Highlights
 
-- **Status:** Accepted at **CVPR 2026**
+- **Status:** Accepted at **CVPR 2026 (Highlight)**
 - **Contribution:** Reframes global tractography as a generative modeling problem
 - **Focus:** Scalable probabilistic streamline generation
 
 ### Links
 
 - [Paper (arXiv)](https://arxiv.org/abs/2511.13183)
+- [Project Page](https://alecsargood.github.io/GenTract/)
 - [Code](https://github.com/alecsargood/GenTract)
