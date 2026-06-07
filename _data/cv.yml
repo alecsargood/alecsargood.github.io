@@ -103,7 +103,7 @@ cv:
         url: https://alecsargood.github.io/GenTract/
         summary: Generative framework for global tractography in diffusion MRI.
         highlights:
-          - Accepted at CVPR 2026 (Highlight).
+          - CVPR 2026 Highlight Award.
           - Focused on high-quality tract reconstruction at scale.
           - "Project page: alecsargood.github.io/GenTract — Code: github.com/alecsargood/GenTract"
 
