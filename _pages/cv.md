@@ -8,13 +8,13 @@ description: My curriculum vitae.
 ---
 
 <div class="text-center mb-3">
-  <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer" class="btn btn-sm z-depth-0">
+  <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}?v={{ site.time | date: '%s' }}" target="_blank" rel="noopener noreferrer" class="btn btn-sm z-depth-0">
     <i class="fa-solid fa-file-pdf"></i> Download PDF
   </a>
 </div>
 
 <iframe
-  src="{{ '/assets/pdf/cv.pdf' | relative_url }}"
+  src="{{ '/assets/pdf/cv.pdf' | relative_url }}?v={{ site.time | date: '%s' }}"
   title="Alec Sargood — CV"
   width="100%"
   style="height: 90vh; min-height: 700px; border: 1px solid var(--global-divider-color); border-radius: 8px;"
