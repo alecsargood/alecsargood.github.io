@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD AI Researcher @ UCL. Specialising in Generative Models and Computer Vision.
+subtitle: PhD Researcher @ UCL. Generative Models, Inference-Time Steering and Computer Vision.
 
 profile:
   align: right
@@ -28,10 +28,10 @@ latest_posts:
   limit: 3
 ---
 
-I am an Applied Mathematician and AI Researcher currently pursuing my PhD in Computer Science at **University College London (UCL)** within the Hawkes Institute.
+I am an applied mathematician and PhD researcher in Computer Science at **University College London (UCL)**, based in the Hawkes Institute. I am also a research intern at **InstaDeep**, working on the guidance and steering of generative models.
 
-My current research focuses on the theory of generative models and computer vision, with applications in medical imaging, data generation tasks, and inverse problems. Much of this work centres on diffusion and flow models, both in understanding their underlying dynamics and in adapting them to settings where high-quality data is scarce.
+My research focuses on the theory and development of **generative models**, particularly diffusion and flow models, including few-step approaches. I am especially interested in how we can control and adapt pretrained models at inference time, using guidance, rewards and feedback to steer generation and shape output distributions. My work spans mathematical analysis and practical methods, with applications in image synthesis, medical imaging and inverse problems.
 
-**Open to collaboration:** I am always keen to explore research collaborations in flow and generative models (both theoretical and practical), image and data synthesis, and general medical image problems. More recently, I have become interested in RL and SDE-based guidance techniques for the above, particularly controllable generation — steering text-to-image models, guiding data synthesis towards desired properties, and maximising rewards at inference time. Feel free to reach out!
+**Open to collaboration:** I am always keen to discuss ideas and collaborations in generative modelling, inference-time steering and image generation. Feel free to get in touch!
 
-Prior to my PhD, I completed an MRes at the **University of Cambridge**, an MSc in Mathematical Modelling and Scientific Computing from the **University of Oxford**, and a BSc in Mathematics from the **University of Exeter**.
+Prior to my PhD, I completed an MRes at the **University of Cambridge**, an MSc in Mathematical Modelling and Scientific Computing at the **University of Oxford**, and a BSc in Mathematics at the **University of Exeter**.
