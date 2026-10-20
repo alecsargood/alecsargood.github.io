@@ -39,8 +39,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-m-excited-to-share-that-i-ll-be-starting-a-6-month-phd-research-internship-at-instadeep-in-london-i-will-be-joining-the-team-to-focus-on-the-guidance-and-steering-of-generative-models",
           title: 'I’m excited to share that I’ll be starting a 6-month PhD Research Internship...',
           description: "",
-          section: "News",},{id: "news-part-of-my-research-work-at-instadeep-steered-not-stirred-effective-tilting-in-generative-models-using-surrogate-reward-mixing-has-been-accepted-at-neurips-2026-stody-workshop",
-          title: 'Part of my research work at InstaDeep Steered not Stirred: Effective Tilting in...',
+          section: "News",},{id: "news-part-of-my-research-work-at-instadeep-steered-not-stirred-effective-reward-tilting-using-surrogate-reward-mixing-has-been-accepted-at-neurips-2026-stody-workshop-explore-the-project-page",
+          title: 'Part of my research work at InstaDeep Steered Not Stirred: Effective Reward Tilting...',
           description: "",
           section: "News",},{id: "projects-cocolit-framework",
           title: 'CoCoLIT Framework',
@@ -57,6 +57,11 @@ ninja.data = [{
           description: "Generative global tractography for diffusion MRI.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gentract/";
+            },},{id: "projects-martini",
+          title: 'MARTINI',
+          description: "Learning to mix surrogate rewards for inference-time steering of generative models.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/martini/";
             },},{id: "projects-reaction-diffusion-solver",
           title: 'Reaction-Diffusion Solver',
           description: "Numerical solvers for stiff PDE systems in MATLAB and Julia.",
