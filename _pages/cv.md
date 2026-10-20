@@ -8,7 +8,7 @@ description: My curriculum vitae.
 ---
 
 <div class="text-center mb-3">
-  <p class="small text-muted mb-2">To use the links in my CV, download the PDF and open it in a PDF viewer.</p>
+  <p class="small text-muted mb-2">To use the links in my CV, download the PDF.</p>
   <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}?v={{ site.time | date: '%s' }}" download="Alec-Sargood-CV.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-sm z-depth-0">
     <i class="fa-solid fa-file-pdf"></i> Download CV (PDF)
   </a>
