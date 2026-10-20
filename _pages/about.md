@@ -13,7 +13,7 @@ profile:
     <i class="fas fa-map-marker-alt fa-sm"></i> London, UK<br>
     <i class="fas fa-envelope fa-sm"></i> <a href="mailto:alec.sargood.23@ucl.ac.uk">Email Me</a><br>
     <i class="fas fa-file-pdf fa-sm"></i> <a href="/assets/pdf/cv.pdf" target="_blank">Download My CV</a>
-    
+
 selected_papers: true
 social: true
 
@@ -30,7 +30,7 @@ latest_posts:
 
 I am an applied mathematician and PhD researcher in Computer Science at **University College London (UCL)**, based in the Hawkes Institute. I am also a research intern at **InstaDeep**, working on the guidance and steering of generative models.
 
-My research focuses on the theory and development of **generative models**, particularly diffusion and flow models, including few-step approaches. I am especially interested in how we can control and adapt pretrained models at inference time, using guidance, rewards and feedback to steer generation and shape output distributions. My work spans mathematical analysis and practical methods, with applications in image synthesis, medical imaging and inverse problems.
+My research focuses on the theory and development of **generative models**, particularly diffusion and flow models, including few-step approaches. I am especially interested in how we can control and adapt pretrained models at inference time, using guidance, rewards and feedback to steer generation and shape output distributions. My work spans mathematical analysis and practical methods, with applications in image synthesis, medical imaging, inverse problems, and AI4Science.
 
 **Open to collaboration:** I am always keen to discuss ideas and collaborations in generative modelling, inference-time steering and image generation. Feel free to get in touch!
 
